@@ -35,7 +35,7 @@ Run the script to train and evaluate the model:
 python brain_tumor_detection.py
 
 
-### **3️How to Test a New Image**
+### **How to Test a New Image**
 📌 **Purpose:** Show how users can classify a single MRI image.
 
 **Example:**
@@ -47,7 +47,7 @@ python brain_tumor_detection.py --test_image "Dataset/brain_tumor_dataset/yes/sa
 
 ---
 
-### **4️ Model Performance & Accuracy**
+### **4 Model Performance & Accuracy**
 📌 **Purpose:** Show how well your model performs.
 
 **Example:**
